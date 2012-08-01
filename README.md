@@ -1,4 +1,4 @@
 cloob
 =====
 
-Proyecto realizado para página cloob
+Proyecto realizado para página cloob, mint
